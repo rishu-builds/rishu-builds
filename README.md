@@ -4,7 +4,7 @@
   ### 🚀 Aspiring Full-Stack Web & AI Developer | BCA Student @ Dr. RMLAU
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishabh%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-yadav-00a235349)
-  [![GitHub](https://img.shields.io/badge/GitHub-rishabhyadav47383-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhyadav47383)
+  [![GitHub](https://img.shields.io/badge/GitHub-rishu--builds-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishu-builds)
   [![Email](https://img.shields.io/badge/Email-ysrishabh017%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysrishabh017@gmail.com)
 
   <br />
@@ -68,10 +68,11 @@
 
 | Project Name | Tech Stack | Highlights | Repository |
 | :--- | :--- | :--- | :---: |
-| 🤖 **Rishabh AI (WhatsApp Multimodal Bot)** | `Python` • `Google Gemini AI` • `Meta Cloud API` • `SQLite` • `Docker` | 24/7 cloud-native assistant with OCR multimodal vision, voice note transcription & SQLite lead CRM. | [View Repo](https://github.com/rishabhyadav47383) |
-| 🎙️ **VoiceAI Mock Interviewer & Coach** | `Python` • `Streamlit` • `Google Gemini 1.5` • `Speech-to-Text` • `ReportLab` | Voice-to-voice technical placement interview simulator with WPM analytics and automated PDF scorecards. | [View Repo](https://github.com/rishabhyadav47383) |
-| 🛍️ **Rishu Shop (E-Commerce Platform)** | `HTML5/CSS3` • `JavaScript` • `PHP` • `MySQL` • `OAuth 2.0` | Full-stack retail platform with Google OAuth, 5-stage order tracker, dynamic cart & Admin Dashboard. | [View Repo](https://github.com/rishabhyadav47383) |
-| 📈 **Nexgenta Solutions Agency Platform** | `HTML5` • `Tailwind CSS` • `JavaScript (ES6+)` • `Schema.org SEO` | High-conversion agency platform with dark/light mode, dynamic client ROI calculator, and structured SEO. | [View Repo](https://github.com/rishabhyadav47383) |
+| ⚔️ **Rishu Key Jutsu (Typing Combat Game)** | `HTML5 Canvas` • `JavaScript (ES6+)` • `Web Audio` • `C# / Inno Setup` | 60 FPS martial arts combat typing game with 100 progressive levels, 11 arenas & desktop offline installer. | [View Repo](https://github.com/rishu-builds/rishu-key-jutsu) |
+| 🤖 **Rishabh AI (WhatsApp Multimodal Bot)** | `Python` • `Google Gemini AI` • `Meta Cloud API` • `SQLite` • `Docker` | 24/7 cloud-native assistant with OCR multimodal vision, voice note transcription & SQLite lead CRM. | [View Repo](https://github.com/rishu-builds/rishabh-whatsapp-bot) |
+| 🎙️ **VoiceAI Mock Interviewer & Coach** | `Python` • `Streamlit` • `Google Gemini 1.5` • `Speech-to-Text` • `ReportLab` | Voice-to-voice technical placement interview simulator with WPM analytics and automated PDF scorecards. | [View Profile](https://github.com/rishu-builds) |
+| 🛍️ **Rishu Shop (E-Commerce Platform)** | `HTML5/CSS3` • `JavaScript` • `PHP` • `MySQL` • `OAuth 2.0` | Full-stack retail platform with Google OAuth, 5-stage order tracker, dynamic cart & Admin Dashboard. | [View Profile](https://github.com/rishu-builds) |
+| 📈 **Nexgenta Solutions Agency Platform** | `HTML5` • `Tailwind CSS` • `JavaScript (ES6+)` • `Schema.org SEO` | High-conversion agency platform with dark/light mode, dynamic client ROI calculator, and structured SEO. | [View Profile](https://github.com/rishu-builds) |
 
 ---
 
@@ -79,12 +80,12 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhyadav47383&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Rishabh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhyadav47383&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishu-builds&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Rishabh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishu-builds&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhyadav47383&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishu-builds&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="97%" />
 
 </div>
 
@@ -95,7 +96,7 @@
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-yadav-00a235349)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhyadav47383)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishu-builds)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysrishabh017@gmail.com)
 
   ⭐ *Feel free to explore my repositories, open an issue, or drop a message!*
