@@ -1,11 +1,9 @@
 <div align="center">
 
-  # 👨‍💻 Hi there, I'm <span style="color:#00D2FF;">Rishabh Yadav</span> 👋
-  ### 🚀 Aspiring Full-Stack Web & AI Developer | BCA Student @ Dr. RMLAU
+  <!-- Official Profile Header Banner -->
+  <img src="https://raw.githubusercontent.com/rishu-builds/rishu-builds/main/assets/banner.svg" width="100%" alt="Rishabh Yadav - Aspiring Full-Stack Web &amp; AI Developer" />
 
-  <p align="center">
-    <b><code>C/C++</code> • <code>Python</code> • <code>JavaScript</code> • <code>SQL</code> • <code>Building GenAI Apps</code></b>
-  </p>
+  <br/><br/>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/rishabh-yadav-00a235349" target="_blank">
