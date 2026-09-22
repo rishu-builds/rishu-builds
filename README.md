@@ -4,9 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,21&height=220&section=header&text=Rishabh%20Yadav&fontSize=42&fontAlignY=38&desc=Full-Stack%20Web%20Engineer%20%E2%80%A2%20Indie%20Game%20Creator%20%E2%80%A2%20AI%20Builder&descFontSize=17&descAlignY=62&fontColor=ffffff" width="100%" alt="Rishabh Yadav Header"/>
 
   <!-- Typing SVG -->
-  <a href="https://github.com/rishu-builds">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=⚡+Full-Stack+Web+Developer+%26+AI+Engineer;⚔️+Creator+of+Rishu+Key+Jutsu+(Combat+Typing+Game);🤖+Building+24%2F7+Multimodal+AI+Bots+%26+Automation;🎓+BCA+Student+%40+Dr.+RMLAU+%7C+Open+For+Internships" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=680&lines=Full-Stack+Web+Developer+%26+AI+Engineer;Creator+of+Rishu+Key+Jutsu+Combat+Game;Building+24%2F7+Multimodal+AI+Bots+%26+CRM;BCA+Student+at+Dr.+RMLAU+-+Open+for+Roles" alt="Typing SVG" />
+
 
   <p align="center">
     <a href="https://www.linkedin.com/in/rishabh-yadav-00a235349" target="_blank">
