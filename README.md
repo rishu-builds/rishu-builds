@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Official Profile Header Banner -->
-  <img src="https://raw.githubusercontent.com/rishu-builds/rishu-builds/main/assets/banner.svg" width="100%" alt="Rishabh Yadav - Aspiring Full-Stack Web &amp; AI Developer" />
+  <img src="https://raw.githubusercontent.com/rishu-builds/rishu-builds/refs/heads/main/assets/banner.svg" width="100%" alt="Rishabh Yadav - Aspiring Full-Stack Web &amp; AI Developer" />
 
   <br/><br/>
 
