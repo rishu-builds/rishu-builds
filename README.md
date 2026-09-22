@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,21&height=220&section=header&text=Rishabh%20Yadav&fontSize=42&fontAlignY=38&desc=Full-Stack%20Web%20Engineer%20%E2%80%A2%20Indie%20Game%20Creator%20%E2%80%A2%20AI%20Builder&descFontSize=17&descAlignY=62&fontColor=ffffff" width="100%" alt="Rishabh Yadav Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,21&height=220&section=header&text=Rishabh%20Yadav&fontSize=42&fontAlignY=38&desc=Aspiring%20Full-Stack%20Web%20%26%20AI%20Developer%20%7C%20BCA%20%40%20Dr.%20RMLAU&descFontSize=17&descAlignY=62&fontColor=ffffff" width="100%" alt="Rishabh Yadav Header"/>
 
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=680&lines=Full-Stack+Web+Developer+%26+AI+Engineer;Creator+of+Rishu+Key+Jutsu+Combat+Game;Building+24%2F7+Multimodal+AI+Bots+%26+CRM;BCA+Student+at+Dr.+RMLAU+-+Open+for+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=680&lines=Aspiring+Full-Stack+Web+%26+AI+Developer;BCA+Student+at+Dr.+RMLAU;C%2FC%2B%2B+-+Python+-+JavaScript+-+SQL;Building+GenAI+Apps+%26+Automation+Tools;Creator+of+Rishu+Key+Jutsu+Game" alt="Typing SVG" />
 
 
   <p align="center">
@@ -31,11 +31,11 @@
 
 ```yaml
 Name: Rishabh Yadav (@rishu-builds)
-Role: Full-Stack Web & AI Developer • Indie Game Developer
+Role: Aspiring Full-Stack Web & AI Developer
 Education: Bachelor of Computer Applications (BCA) @ Dr. Ram Manohar Lohia Avadh University (Batch 2024–2027, 5th Sem)
 Location: Ayodhya, Uttar Pradesh, India
-Core_Focus: High-Performance Web Apps, Interactive Canvas Games, Generative AI Systems
-Status: 🎯 Actively seeking Software Development & Full-Stack Internships
+Core_Focus: C/C++, Python, JavaScript, SQL, Building GenAI Apps & Web Platforms
+Status: 🎯 Actively seeking Software Development & Web Development Internships
 ```
 
 - ⚔️ **Indie Game Development:** Built **[Rishu Key Jutsu](https://keyjutsu-game.vercel.app)**, a fast-paced 60 FPS martial-arts touch-typing combat game with 100 levels, 11 arenas, and native offline Windows desktop packaging.
