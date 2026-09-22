@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,21&height=220&section=header&text=Rishabh%20Yadav&fontSize=42&fontAlignY=38&desc=Aspiring%20Full-Stack%20Web%20%26%20AI%20Developer%20%7C%20BCA%20%40%20Dr.%20RMLAU&descFontSize=17&descAlignY=62&fontColor=ffffff" width="100%" alt="Rishabh Yadav Header"/>
+  # 👨‍💻 Hi there, I'm <span style="color:#00D2FF;">Rishabh Yadav</span> 👋
+  ### 🚀 Aspiring Full-Stack Web & AI Developer | BCA Student @ Dr. RMLAU
 
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=680&lines=Aspiring+Full-Stack+Web+%26+AI+Developer;BCA+Student+at+Dr.+RMLAU;C%2FC%2B%2B+-+Python+-+JavaScript+-+SQL;Building+GenAI+Apps+%26+Automation+Tools;Creator+of+Rishu+Key+Jutsu+Game" alt="Typing SVG" />
-
+  <p align="center">
+    <b><code>C/C++</code> • <code>Python</code> • <code>JavaScript</code> • <code>SQL</code> • <code>Building GenAI Apps</code></b>
+  </p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/rishabh-yadav-00a235349" target="_blank">
@@ -23,25 +23,23 @@
     <img src="https://img.shields.io/badge/Location-Ayodhya%2C_India-FF8000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
+  <br />
+
+  <!-- Animated Typing Headline -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Aspiring+Full-Stack+Web+%26+AI+Developer;BCA+Student+at+Dr.+RMLAU;C%2FC%2B%2B+-+Python+-+JavaScript+-+SQL;Building+GenAI+Apps+%26+Automation+Tools;Creator+of+Rishu+Key+Jutsu+Game" alt="Typing SVG" />
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🌟 About Me
 
-```yaml
-Name: Rishabh Yadav (@rishu-builds)
-Role: Aspiring Full-Stack Web & AI Developer
-Education: Bachelor of Computer Applications (BCA) @ Dr. Ram Manohar Lohia Avadh University (Batch 2024–2027, 5th Sem)
-Location: Ayodhya, Uttar Pradesh, India
-Core_Focus: C/C++, Python, JavaScript, SQL, Building GenAI Apps & Web Platforms
-Status: 🎯 Actively seeking Software Development & Web Development Internships
-```
-
+- 🎓 **Education:** Pursuing **Bachelor of Computer Applications (BCA)** at *Dr. Ram Manohar Lohia Avadh University* (Batch 2024–2027, 5th Semester).
+- 💡 **Core Expertise:** Full-Stack Web Development, Generative AI Application Engineering, Database Systems, and C/C++ Data Structures.
 - ⚔️ **Indie Game Development:** Built **[Rishu Key Jutsu](https://keyjutsu-game.vercel.app)**, a fast-paced 60 FPS martial-arts touch-typing combat game with 100 levels, 11 arenas, and native offline Windows desktop packaging.
 - 🤖 **AI & Automation Engineering:** Engineered **[Rishabh AI](https://github.com/rishu-builds/rishabh-whatsapp-bot)**, an enterprise-grade 24/7 WhatsApp customer service assistant using Meta WhatsApp Cloud API & Google Gemini AI multimodal vision.
-- 💡 **Engineering Philosophy:** Writing clean, scalable code that delivers delight through fluid interactivity, zero-lag performance, and intuitive UX.
-- 📬 **Reach Out:** Whether it's an internship opportunity, freelance project, or open-source collaboration — my inbox is always open!
+- 🎯 **Current Goal:** Actively seeking **Software Development / Web Development Internship** roles to contribute clean code to real-world engineering teams.
+- 📍 **Location:** Ayodhya, Uttar Pradesh, India.
 
 ---
 
@@ -173,9 +171,5 @@ Status: 🎯 Actively seeking Software Development & Web Development Internships
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-yadav-00a235349)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishu-builds)
   [![Gmail](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysrishabh017@gmail.com)
-
-  <br/><br/>
-  <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,21&height=100&section=footer" width="100%" alt="Footer Wave"/>
 
 </div>
