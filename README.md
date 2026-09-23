@@ -7,18 +7,18 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/rishabh-yadav-00a235349" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Rishabh_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+      <img src="https://img.shields.io/badge/LinkedIn-Rishabh_Yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>&nbsp;
     <a href="https://github.com/rishu-builds" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-rishu--builds-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
+      <img src="https://img.shields.io/badge/GitHub-rishu--builds-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>&nbsp;
     <a href="https://keyjutsu-game.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Game-Key_Jutsu-FF0055?style=for-the-badge&logo=vercel&logoColor=white" alt="Key Jutsu Game" />
-    </a>
+      <img src="https://img.shields.io/badge/Live_Game-Key_Jutsu-FF0055?style=flat-square&logo=vercel&logoColor=white" alt="Key Jutsu Game" />
+    </a>&nbsp;
     <a href="mailto:ysrishabh017@gmail.com">
-      <img src="https://img.shields.io/badge/Email-ysrishabh017%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Ayodhya%2C_India-FF8000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+      <img src="https://img.shields.io/badge/Email-ysrishabh017%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>&nbsp;
+    <img src="https://img.shields.io/badge/Location-Ayodhya%2C_India-FF8000?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
   <br />
@@ -43,70 +43,53 @@
 
 ### 🔥 Featured Projects & Showcases
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">⚔️ Rishu Key Jutsu</h3>
-      <p><b>Action Martial Arts Touch-Typing Combat Game</b></p>
-      <p>A 60 FPS browser and Windows PC game where touch typing delivers punches, kicks, and combos. Complete with 100 progressive levels, 11 cyberpunk dojos, custom sound effects, and native Windows installer.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5_Canvas-Engine-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web_Audio-API-00D2FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Inno_Setup-Windows_PC-0078D7?style=flat-square&logo=windows&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://keyjutsu-game.vercel.app/play.html"><b>⚔️ Play Online</b></a> • 
-        <a href="https://keyjutsu-game.vercel.app/download.html"><b>⬇️ Download Setup</b></a> • 
-        <a href="https://github.com/rishu-builds/rishu-key-jutsu"><b>💻 View Repo</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🤖 Rishabh AI WhatsApp Bot</h3>
-      <p><b>Enterprise 24/7 Multimodal AI Assistant & CRM</b></p>
-      <p>Cloud-native customer lead automation platform powered by Meta WhatsApp Cloud API and Google Gemini AI. Features real-time OCR document reading, voice note transcription, and automatic SQLite lead CRM logging.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Gemini-Multimodal-8E75C2?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Meta_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/rishu-builds/rishabh-whatsapp-bot"><b>💻 View Repository</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🎙️ VoiceAI Mock Interviewer</h3>
-      <p><b>Technical Placement Simulation & Coaching</b></p>
-      <p>Voice-to-voice interview simulator powered by Google Gemini 1.5 and Speech Recognition. Delivers real-time cadence and WPM analytics with automated comprehensive PDF scorecard evaluation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/Speech_To_Text-00ADB5?style=flat-square" />
-        <img src="https://img.shields.io/badge/ReportLab-PDF-F1C40F?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/rishu-builds"><b>✨ View Profile</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🛍️ Rishu Shop E-Commerce</h3>
-      <p><b>Full-Stack Online Retail Platform</b></p>
-      <p>Full-stack web store with Google OAuth 2.0 authentication, dynamic cart management, interactive 5-stage order shipment tracking, and an extensive admin analytics dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/rishu-builds"><b>✨ View Profile</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### ⚔️ [Rishu Key Jutsu — Martial Arts Touch-Typing Combat Game](https://keyjutsu-game.vercel.app)
+> **A fast-paced 60 FPS action game where accurate touch typing executes punches, kicks, and devastating combat combos.** Features 100 progressive levels across 11 cyberpunk dojos, custom sound effects, 60 FPS canvas rendering, and a native Windows PC offline installer.
+>
+> ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+> ![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-60_FPS-E34F26?style=flat-square&logo=html5&logoColor=white)
+> ![Web Audio](https://img.shields.io/badge/Web_Audio-API-00D2FF?style=flat-square)
+> ![Windows Setup](https://img.shields.io/badge/Windows-PC_Installer-0078D7?style=flat-square&logo=windows&logoColor=white)
+> ![Vercel](https://img.shields.io/badge/Vercel-Live_Online-000000?style=flat-square&logo=vercel&logoColor=white)
+>
+> ⚔️ [**Play Online in Browser**](https://keyjutsu-game.vercel.app/play.html) &nbsp;•&nbsp; ⬇️ [**Download Windows Setup (.exe)**](https://keyjutsu-game.vercel.app/download.html) &nbsp;•&nbsp; 💻 [**View Source Code**](https://github.com/rishu-builds/rishu-key-jutsu)
+
+<br />
+
+### 🤖 [Rishabh AI — Enterprise 24/7 WhatsApp Multimodal Bot & CRM](https://github.com/rishu-builds/rishabh-whatsapp-bot)
+> **Cloud-native conversational AI automation platform engineered with Meta WhatsApp Cloud API and Google Gemini AI.** Handles real-time OCR document/receipt understanding, voice note transcription, context-aware bilingual conversations, and automated SQLite lead CRM logging.
+>
+> ![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+> ![Google Gemini](https://img.shields.io/badge/Google_Gemini-Multimodal-8E75C2?style=flat-square&logo=google&logoColor=white)
+> ![Meta Cloud API](https://img.shields.io/badge/Meta_Cloud_API-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+> ![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white)
+> ![SQLite](https://img.shields.io/badge/SQLite-CRM_Database-003B57?style=flat-square&logo=sqlite&logoColor=white)
+>
+> 💻 [**View Repository & Documentation**](https://github.com/rishu-builds/rishabh-whatsapp-bot)
+
+<br />
+
+### 🎙️ VoiceAI — Technical Mock Interviewer & Placement Coach
+> **Voice-to-voice interview simulator powered by Google Gemini 1.5 and Speech Recognition.** Delivers real-time cadence and WPM analytics with automated comprehensive PDF scorecard evaluation.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+> ![Speech To Text](https://img.shields.io/badge/Speech_To_Text-00ADB5?style=flat-square)
+> ![ReportLab](https://img.shields.io/badge/ReportLab-PDF-F1C40F?style=flat-square)
+>
+> ✨ [**View Developer Profile**](https://github.com/rishu-builds)
+
+<br />
+
+### 🛍️ Rishu Shop — Full-Stack E-Commerce Platform
+> **Full-stack retail platform featuring Google OAuth 2.0 authentication, dynamic cart management, interactive 5-stage order shipment tracking, and an extensive admin analytics dashboard.**
+>
+> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+> ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+>
+> ✨ [**View Developer Profile**](https://github.com/rishu-builds)
 
 ---
 
