@@ -69,15 +69,16 @@
 
 <br />
 
-### 🎙️ VoiceAI — Technical Mock Interviewer & Placement Coach
-> **Voice-to-voice interview simulator powered by Google Gemini 1.5 and Speech Recognition.** Delivers real-time cadence and WPM analytics with automated comprehensive PDF scorecard evaluation.
+### 🎙️ [VoiceAI — Technical Mock Interviewer & Placement Coach](https://rishu-voice-ai.streamlit.app/)
+> **Voice-to-voice real-time interview simulator powered by Google Gemini 2.0 / 1.5 Flash and Speech Recognition.** Delivers real-time cadence (WPM) and filler word analytics with automated comprehensive PDF scorecard evaluation.
 >
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 > ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+> ![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.0_Flash-8E75C2?style=flat-square&logo=google&logoColor=white)
 > ![Speech To Text](https://img.shields.io/badge/Speech_To_Text-00ADB5?style=flat-square)
 > ![ReportLab](https://img.shields.io/badge/ReportLab-PDF-F1C40F?style=flat-square)
 >
-> ✨ [**View Developer Profile**](https://github.com/rishu-builds)
+> 🚀 [**Launch Live Web App**](https://rishu-voice-ai.streamlit.app/) &nbsp;•&nbsp; 💻 [**View Source Code**](https://github.com/rishu-builds/voice-ai-mock-interviewer)
 
 <br />
 
