@@ -82,15 +82,17 @@
 
 <br />
 
-### 🛍️ Rishu Shop — Full-Stack E-Commerce Platform
-> **Full-stack retail platform featuring Google OAuth 2.0 authentication, dynamic cart management, interactive 5-stage order shipment tracking, and an extensive admin analytics dashboard.**
+### 🛍️ [Rishu Shop — Modern Streetwear E-Commerce Storefront](https://rishu-builds.github.io/rishu-shop-ecommerce/)
+> **High-performance full-stack luxury streetwear retail platform.** Features a responsive mobile-first UI with 2-row adaptive header, interactive 3D hero showcase, real-time slide-in Cart Drawer, 6-digit phone OTP authentication, dynamic coupon engine, 2-step checkout, and 5-stage order shipment tracking pipeline.
 >
-> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-> ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+> ![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?style=flat-square&logo=php&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
+> ![SQLite](https://img.shields.io/badge/SQLite-Fast_Storage-003B57?style=flat-square&logo=sqlite&logoColor=white)
+> ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_24%2F7-222222?style=flat-square&logo=githubpages&logoColor=white)
+> ![Responsive](https://img.shields.io/badge/Responsive-Mobile_•_Tablet_•_Desktop-4ade80?style=flat-square)
 >
-> ✨ [**View Developer Profile**](https://github.com/rishu-builds)
+> 🛒 [**Explore Live Storefront**](https://rishu-builds.github.io/rishu-shop-ecommerce/) &nbsp;•&nbsp; 💻 [**View Source Code**](https://github.com/rishu-builds/rishu-shop-ecommerce)
 
 ---
 
