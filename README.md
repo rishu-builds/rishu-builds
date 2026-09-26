@@ -6,6 +6,9 @@
   <br/><br/>
 
   <p align="center">
+    <a href="https://rishu-builds.github.io/" target="_blank">
+      <img src="https://img.shields.io/badge/3D_Portfolio-Live_Site-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="3D Portfolio" />
+    </a>&nbsp;
     <a href="https://www.linkedin.com/in/rishabh-yadav777" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Rishabh_Yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>&nbsp;
@@ -42,6 +45,18 @@
 ---
 
 ### 🔥 Featured Projects & Showcases
+
+### ⚡ [3D Cyberpunk Developer Portfolio — Three.js & CLI Terminal](https://rishu-builds.github.io/)
+> **Immersive 3D developer portfolio and interactive workstation built with Three.js (WebGL).** Features an in-browser Linux-style CLI terminal emulator (`guest@rishabh-dev:~$`) with Tab auto-completion, procedural multi-point lighting, smooth mouse parallax, scroll telemetry, and instant access to 4 production builds.
+>
+> ![Three.js](https://img.shields.io/badge/Three.js-WebGL-000000?style=flat-square&logo=threedotjs&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+> ![CSS3](https://img.shields.io/badge/CSS3-Glassmorphism-1572B6?style=flat-square&logo=css3&logoColor=white)
+> ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_24%2F7-222222?style=flat-square&logo=githubpages&logoColor=white)
+>
+> 🌐 [**Explore Live 3D Portfolio**](https://rishu-builds.github.io/) &nbsp;•&nbsp; 📄 [**View Resume (PDF)**](https://rishu-builds.github.io/assets/resume.pdf) &nbsp;•&nbsp; 💻 [**View Source Code**](https://github.com/rishu-builds/rishu-builds.github.io)
+
+<br />
 
 ### ⚔️ [Rishu Key Jutsu — Martial Arts Touch-Typing Combat Game](https://keyjutsu-game.vercel.app)
 > **A fast-paced 60 FPS action game where accurate touch typing executes punches, kicks, and devastating combat combos.** Features 100 progressive levels across 11 cyberpunk dojos, custom sound effects, 60 FPS canvas rendering, and a native Windows PC offline installer.
