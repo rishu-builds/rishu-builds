@@ -6,7 +6,7 @@
   <br/><br/>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/rishabh-yadav-00a235349" target="_blank">
+    <a href="https://www.linkedin.com/in/rishabh-yadav777" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Rishabh_Yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>&nbsp;
     <a href="https://github.com/rishu-builds" target="_blank">
@@ -152,7 +152,7 @@
 
   <p>I am always interested in discussing new development projects, internship roles, and tech ideas!</p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-yadav-00a235349)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-yadav777)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishu-builds)
   [![Gmail](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysrishabh017@gmail.com)
 
