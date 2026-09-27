@@ -46,8 +46,8 @@
 
 ### 🔥 Featured Projects & Showcases
 
-### ⚡ [3D Cyberpunk Developer Portfolio — Three.js & CLI Terminal](https://rishu-builds.github.io/)
-> **Immersive 3D developer portfolio and interactive workstation built with Three.js (WebGL).** Features an in-browser Linux-style CLI terminal emulator (`guest@rishabh-dev:~$`) with Tab auto-completion, procedural multi-point lighting, smooth mouse parallax, scroll telemetry, and instant access to 4 production builds.
+### ⚡ [3D Cyberpunk Developer Portfolio — Three.js WebGL](https://rishu-builds.github.io/)
+> **Immersive 3D developer portfolio and interactive workstation built with Three.js (WebGL).** Features an ambient cosmic particle constellation, perspective grid floor, procedural multi-point lighting, smooth mouse parallax, scroll telemetry, and instant access to 4 production builds.
 >
 > ![Three.js](https://img.shields.io/badge/Three.js-WebGL-000000?style=flat-square&logo=threedotjs&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
