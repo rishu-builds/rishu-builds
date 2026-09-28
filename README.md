@@ -38,7 +38,7 @@
 - 🎓 **Education:** Pursuing **Bachelor of Computer Applications (BCA)** at *Dr. Ram Manohar Lohia Avadh University* (Batch 2024–2027, 5th Semester).
 - 💡 **Core Expertise:** Full-Stack Web Development, Generative AI Application Engineering, Database Systems, and C/C++ Data Structures.
 - ⚔️ **Indie Game Development:** Built **[Rishu Key Jutsu](https://keyjutsu-game.vercel.app)**, a fast-paced 60 FPS martial-arts touch-typing combat game with 100 levels, 11 arenas, and native offline Windows desktop packaging.
-- 🤖 **AI & Automation Engineering:** Engineered **[Rishabh AI](https://github.com/rishu-builds/rishabh-whatsapp-bot)**, an enterprise-grade 24/7 WhatsApp customer service assistant using Meta WhatsApp Cloud API & Google Gemini AI multimodal vision.
+- 🤖 **AI & Bot Development:** Built **[WhatsApp AI Assistant](https://github.com/rishu-builds/rishabh-whatsapp-bot)**, a WhatsApp customer support bot built with Node.js and Google Gemini AI for voice notes, image parsing, and lead management.
 - 🎯 **Current Goal:** Actively seeking **Software Development / Web Development Internship** roles to contribute clean code to real-world engineering teams.
 - 📍 **Location:** Ayodhya, Uttar Pradesh, India.
 
@@ -59,7 +59,7 @@
 <br />
 
 ### ⚔️ [Rishu Key Jutsu — Martial Arts Touch-Typing Combat Game](https://keyjutsu-game.vercel.app)
-> **A fast-paced 60 FPS action game where accurate touch typing executes punches, kicks, and devastating combat combos.** Features 100 progressive levels across 11 cyberpunk dojos, custom sound effects, 60 FPS canvas rendering, and a native Windows PC offline installer.
+> **A fast-paced action game where accurate touch typing executes martial arts punches, kicks, and combos.** Features 100 progressive levels across 11 battle arenas, custom sound effects, 60 FPS canvas rendering, and a native Windows PC offline installer.
 >
 > ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 > ![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-60_FPS-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -71,12 +71,11 @@
 
 <br />
 
-### 🤖 [Rishabh AI — Enterprise 24/7 WhatsApp Multimodal Bot & CRM](https://github.com/rishu-builds/rishabh-whatsapp-bot)
-> **Cloud-native conversational AI automation platform engineered with Meta WhatsApp Cloud API and Google Gemini AI.** Handles real-time OCR document/receipt understanding, voice note transcription, context-aware bilingual conversations, and automated SQLite lead CRM logging.
+### 🤖 [WhatsApp AI Assistant & CRM Bot](https://github.com/rishu-builds/rishabh-whatsapp-bot)
+> **A WhatsApp assistant bot built with Node.js and Google Gemini AI.** Handles voice note transcription, image understanding, bilingual conversations, and automatic lead capture into SQLite.
 >
 > ![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 > ![Google Gemini](https://img.shields.io/badge/Google_Gemini-Multimodal-8E75C2?style=flat-square&logo=google&logoColor=white)
-> ![Meta Cloud API](https://img.shields.io/badge/Meta_Cloud_API-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 > ![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white)
 > ![SQLite](https://img.shields.io/badge/SQLite-CRM_Database-003B57?style=flat-square&logo=sqlite&logoColor=white)
 >
@@ -85,7 +84,7 @@
 <br />
 
 ### 🎙️ [VoiceAI — Technical Mock Interviewer & Placement Coach](https://rishu-voice-ai.streamlit.app/)
-> **Voice-to-voice real-time interview simulator powered by Google Gemini 2.0 / 1.5 Flash and Speech Recognition.** Delivers real-time cadence (WPM) and filler word analytics with automated comprehensive PDF scorecard evaluation.
+> **Voice-to-voice real-time interview simulator powered by Google Gemini and Speech Recognition.** Delivers real-time speaking pace (WPM) and filler word analytics with downloadable PDF assessment scorecards.
 >
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 > ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -97,8 +96,8 @@
 
 <br />
 
-### 🛍️ [Rishu Shop — Modern Streetwear E-Commerce Storefront](https://rishu-builds.github.io/rishu-shop-ecommerce/)
-> **High-performance full-stack luxury streetwear retail platform.** Features a responsive mobile-first UI with 2-row adaptive header, interactive 3D hero showcase, real-time slide-in Cart Drawer, 6-digit phone OTP authentication, dynamic coupon engine, 2-step checkout, and 5-stage order shipment tracking pipeline.
+### 🛍️ [Rishu Shop — Streetwear E-Commerce Storefront](https://rishu-builds.github.io/rishu-shop-ecommerce/)
+> **Full-stack streetwear clothing store built with PHP, MySQL, and JavaScript.** Features a responsive mobile-first layout, real-time slide-in Cart Drawer, 6-digit phone OTP authentication, promo coupon system, and 5-stage order shipment tracking.
 >
 > ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 > ![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -111,7 +110,7 @@
 
 ---
 
-### 🛠️ Technical Arsenal & Skills
+### 🛠️ Skills & Technologies
 
 <div align="center">
 
