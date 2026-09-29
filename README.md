@@ -7,7 +7,7 @@
 
   <p align="center">
     <a href="https://rishu-builds.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/3D_Portfolio-Live_Site-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="3D Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Live_Site-00f0ff?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio" />
     </a>&nbsp;
     <a href="https://www.linkedin.com/in/rishabh-yadav777" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Rishabh_Yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -27,7 +27,7 @@
   <br />
 
   <!-- Animated Typing Headline -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Aspiring+Full-Stack+Web+%26+AI+Developer;BCA+Student+at+Dr.+RMLAU;C%2FC%2B%2B+-+Python+-+JavaScript+-+SQL;Building+GenAI+Apps+%26+Automation+Tools;Creator+of+Rishu+Key+Jutsu+Game" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+AI+Developer;BCA+Student+at+Dr.+RMLAU;C%2FC%2B%2B+-+Python+-+JavaScript+-+SQL;Building+Modern+Web+Apps;Creator+of+Rishu+Key+Jutsu+Game" alt="Typing SVG" />
 
 </div>
 
@@ -36,7 +36,7 @@
 ### 🌟 About Me
 
 - 🎓 **Education:** Pursuing **Bachelor of Computer Applications (BCA)** at *Dr. Ram Manohar Lohia Avadh University* (Batch 2024–2027, 5th Semester).
-- 💡 **Core Expertise:** Full-Stack Web Development, Generative AI Application Engineering, Database Systems, and C/C++ Data Structures.
+- 💡 **Core Expertise:** Full-Stack Web Development, AI Integration, Database Management, and C/C++ Data Structures.
 - ⚔️ **Indie Game Development:** Built **[Rishu Key Jutsu](https://keyjutsu-game.vercel.app)**, a fast-paced 60 FPS martial-arts touch-typing combat game with 100 levels, 11 arenas, and native offline Windows desktop packaging.
 - 🤖 **AI & Bot Development:** Built **[WhatsApp AI Assistant](https://github.com/rishu-builds/rishabh-whatsapp-bot)**, a WhatsApp customer support bot built with Node.js and Google Gemini AI for voice notes, image parsing, and lead management.
 - 🎯 **Current Goal:** Actively seeking **Software Development / Web Development Internship** roles to contribute clean code to real-world engineering teams.
@@ -46,15 +46,15 @@
 
 ### 🔥 Featured Projects & Showcases
 
-### ⚡ [3D Cyberpunk Developer Portfolio — Three.js WebGL](https://rishu-builds.github.io/)
-> **Immersive 3D developer portfolio and interactive workstation built with Three.js (WebGL).** Features an ambient cosmic particle constellation, perspective grid floor, procedural multi-point lighting, smooth mouse parallax, scroll telemetry, and instant access to 4 production builds.
+### 🌐 [Developer Portfolio — Interactive Three.js WebGL](https://rishu-builds.github.io/)
+> **Personal developer portfolio built with Three.js (WebGL) and modern JavaScript.** Features real-time particle background animations, responsive layouts, smooth navigation, and live showcases of full-stack production projects.
 >
 > ![Three.js](https://img.shields.io/badge/Three.js-WebGL-000000?style=flat-square&logo=threedotjs&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-> ![CSS3](https://img.shields.io/badge/CSS3-Glassmorphism-1572B6?style=flat-square&logo=css3&logoColor=white)
+> ![CSS3](https://img.shields.io/badge/CSS3-Responsive-1572B6?style=flat-square&logo=css3&logoColor=white)
 > ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_24%2F7-222222?style=flat-square&logo=githubpages&logoColor=white)
 >
-> 🌐 [**Explore Live 3D Portfolio**](https://rishu-builds.github.io/) &nbsp;•&nbsp; 📄 [**View Resume (PDF)**](https://rishu-builds.github.io/assets/resume.pdf) &nbsp;•&nbsp; 💻 [**View Source Code**](https://github.com/rishu-builds/rishu-builds.github.io)
+> 🌐 [**Explore Live Portfolio**](https://rishu-builds.github.io/) &nbsp;•&nbsp; 📄 [**View Resume (PDF)**](https://rishu-builds.github.io/assets/resume.pdf) &nbsp;•&nbsp; 💻 [**View Source Code**](https://github.com/rishu-builds/rishu-builds.github.io)
 
 <br />
 
